@@ -3,7 +3,7 @@ title: Haley Thompson
 email: haleyrthomps@gmail.com
 url: https://thompshal.github.io/
 description: "Personal website, for my journey in the real world!"
-skills: "Bachelor of Science Degree in Clinical Sociology with a minor in Ethics and Leadership and Theology and Religious Studies"
+skills: "Bachelor of Science Degree in Clinical Sociology with a minor in Ethics and Leadership and Theology and Religious Studies. Currently Seeking full time employment in Greater Washington D.C Metro Area"
 meta_author: Thompson Haley
 
 # Google webmaster tools
@@ -38,23 +38,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/haleyrosethompson
+  - title: email
+    url: haleyrthomps@gmail.com
   - title: bitbucket
     url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ridley Park, PA
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  - line: Herndon, VA
 
 # Build settings
 markdown: kramdown
