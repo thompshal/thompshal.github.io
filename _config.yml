@@ -33,17 +33,12 @@ color:
 footer:
   copyright: Haley R. Thompson
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Follow Me on Social Media
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/haleyrosethompson
-  - title: email
-    url: haleyrthomps@gmail.com
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
