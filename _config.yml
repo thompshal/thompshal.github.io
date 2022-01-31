@@ -42,7 +42,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Herndon, VA
+  - line: Seattle, WA
 
 # Build settings
 markdown: kramdown
