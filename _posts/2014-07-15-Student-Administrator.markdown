@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-15
-img: rosemont-logo-2.png
+img: rosemont-logo-2.jpg
 alt: image-alt
 project-date: October 2016
 category: Student Administrator
